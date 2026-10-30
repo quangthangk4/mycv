@@ -1,0 +1,23 @@
+# Intermediate build output and duplicate root PDF.
+/build/
+/main.pdf
+
+# Reference documents and old CV copies.
+/example_cv.pdf
+/* copy.pdf
+
+# LaTeX auxiliary files.
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
